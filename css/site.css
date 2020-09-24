@@ -29,11 +29,12 @@ img.avatar {
   border-radius: 50%;
 }
 
-.data {
+.data,
+.actions {
   padding: 16px;
 }
 
-.name, .lastName {
+label {
     font-weight: 700;
 }
 
